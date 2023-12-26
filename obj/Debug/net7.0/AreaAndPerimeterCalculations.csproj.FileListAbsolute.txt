@@ -1,0 +1,15 @@
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/bin/Debug/net7.0/AreaAndPerimeterCalculations
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/bin/Debug/net7.0/AreaAndPerimeterCalculations.deps.json
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/bin/Debug/net7.0/AreaAndPerimeterCalculations.runtimeconfig.json
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/bin/Debug/net7.0/AreaAndPerimeterCalculations.dll
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/bin/Debug/net7.0/AreaAndPerimeterCalculations.pdb
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/obj/Debug/net7.0/AreaAndPerimeterCalculations.csproj.AssemblyReference.cache
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/obj/Debug/net7.0/AreaAndPerimeterCalculations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/obj/Debug/net7.0/AreaAndPerimeterCalculations.AssemblyInfoInputs.cache
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/obj/Debug/net7.0/AreaAndPerimeterCalculations.AssemblyInfo.cs
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/obj/Debug/net7.0/AreaAndPerimeterCalculations.csproj.CoreCompileInputs.cache
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/obj/Debug/net7.0/AreaAndPerimeterCalculations.dll
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/obj/Debug/net7.0/refint/AreaAndPerimeterCalculations.dll
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/obj/Debug/net7.0/AreaAndPerimeterCalculations.pdb
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/obj/Debug/net7.0/AreaAndPerimeterCalculations.genruntimeconfig.cache
+/Users/nuranazeynalli/Desktop/Project/AreaAndPerimeterCalculations/obj/Debug/net7.0/ref/AreaAndPerimeterCalculations.dll
